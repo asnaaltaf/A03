@@ -76,6 +76,9 @@ Repository - A repository contains all of your project's files and each file's r
 
 
 Sources: 
+
 [1] IntroToGitHub-20190318.pptx
+
 [2] https://www.jetbrains.com/help/webstorm/getting-started-with-webstorm.html#ws_getting_started_open_project
+
 [3] https://www.atlassian.com/git/tutorials/syncing/git-fetch
