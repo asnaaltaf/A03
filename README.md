@@ -47,6 +47,7 @@ Additional Info
 -------------
 
 Definitions: 
+
 Branch - Branches allow you to develop features, fix bugs, or safely experiment with new ideas in a contained area of your repository
 
 Clone - You can clone a repository from GitHub.com to your local computer to make it easier to fix merge conflicts, add or remove files, and push larger commits.
