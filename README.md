@@ -1,5 +1,5 @@
 # A03
-## Directions on Using Webstorm 
+## Directions on Using Git/Github/Webstorm 
 Step 1 - Install [Webstorm] (https://www.jetbrains.com/community/education/)
 
 Step 2 - Select "Apply Now" to fill out a form in order to access JetBrain tools
